@@ -18,7 +18,7 @@ const Home: NextPage = (props: any) => {
      
     
         {/* HEADER */}
-        <Header/>
+        <Header placeholder={undefined}/>
         {/* BANNER */}
         <Banner/>
         <main className='max-w-7xl mx-auto px-8 sm:px-16' >
